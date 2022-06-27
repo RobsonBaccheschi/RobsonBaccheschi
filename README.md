@@ -17,7 +17,7 @@ Também sou aluno da [Estácio de Sá](https://estacio.br/), cursando tecnólogo
 * 🤝  Estou aberto a colaborar em projetos de impacto na vida das pessoas
 * ⚡  Eu amo esportes e meu favorito é BasketBall
 
-<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/RobsonBaccheschi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/RobsonBaccheschi?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills
@@ -43,7 +43,7 @@ src="https://img.shields.io/github/followers/RobsonBaccheschi?logo=github&style=
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/RobsonBaccheschi"><img src="https://github-readme-stats-RobsonBaccheschi.vercel.app/api?username=RobsonBaccheschi&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
+<a href="http://www.github.com/RobsonBaccheschi"><img src="https://github-readme-stats-RobsonBaccheschi.vercel.app/api?username=RobsonBaccheschi&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="RobsonBaccheschi's GitHub stats" /></a>
 
 <a href="http://www.github.com/RobsonBaccheschi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RobsonBaccheschi&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
