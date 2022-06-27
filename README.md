@@ -4,13 +4,13 @@ Olá! 👋 Meu nome é Robson
 Desenvolvedor Iniciante
 -----------------------------
 
-Sou um desenvolvedor de 37 anos, adoro codificar e descobrir como tentar resolver problemas usando tecnologia. Meu foco principal é o desenvolvimento front e back-end, fazendo aplicações que impactam a vida de milhares de usuários.
+Sou um desenvolvedor de 38 anos de idade, adoro codificar e descobrir como tentar resolver problemas usando tecnologia. Meu foco principal é o desenvolvimento front e back-end, fazendo aplicações que impactam a vida de milhares de usuários.
 
 Português
 
 Também sou aluno da [Estácio de Sá](https://estacio.br/), cursando tecnólogo em Análise e Desenvolvimento de Sistemas.
 
-* 🌍  Estou em São Paulo, Brasil, Brasíl
+* 🌍  Estou em São Paulo, Brasil.
 * ✉️  You can contact me at [ro.baccheschid@gmail.com](mailto:ro.baccheschi@gmail.com)
 * 🚀  Atualmente estou trabalhando no [Santos Brasil](https://www.santosbrasil.com.br/v2021/)
 * 🧠  Estou aprendendo Python, HTML5, CSS3 e linguagem de programação C
