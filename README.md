@@ -17,7 +17,7 @@ Também sou aluno da [Estácio de Sá](https://estacio.br/), cursando tecnólogo
 * 🤝  Estou aberto a colaborar em projetos de impacto na vida das pessoas
 * ⚡  Eu amo esportes e meu favorito é BasketBall
 
-<a href="https://https://github.com/RobsonBaccheschi?tab=followers" target="_blank" rel="noreferrer"><img
+<a href="https://https://github.com/RobsonBaccheschi?" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/RobsonBaccheschi?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills
